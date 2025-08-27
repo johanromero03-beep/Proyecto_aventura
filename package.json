@@ -1,0 +1,14 @@
+{
+  "name": "7df6a8ac48694465",
+  "main": "7df6a8ac48694465@235.js",
+  "version": "235.0.0",
+  "homepage": "https://observablehq.com/d/7df6a8ac48694465",
+  "author": {
+    "name": "Humanidades Digitales",
+    "url": "https://observablehq.com/@humanidades-digitales"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
